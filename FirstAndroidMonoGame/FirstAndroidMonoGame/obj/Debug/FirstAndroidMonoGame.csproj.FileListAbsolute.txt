@@ -1,0 +1,17 @@
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\FirstAndroidMonoGame.dll
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\FirstAndroidMonoGame.pdb
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\FirstAndroidMonoGame.FirstAndroidMonoGame.apk
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\FirstAndroidMonoGame.FirstAndroidMonoGame-Signed.apk
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\MonoGame.Framework.xml
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\FirstAndroidMonoGame.dll
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\FirstAndroidMonoGame.pdb
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\android\bin\FirstAndroidMonoGame.FirstAndroidMonoGame.apk
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\res\values\strings.xml
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\res\drawable\icon.png
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\res\drawable\splash.png
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\res\values\styles.xml
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\R.cs.flag
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\uploadflags.txt
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\bin\Android\AnyCPU\Debug\FirstAndroidMonoGame.dll.mdb
+C:\Users\rene__000\Documents\Visual Studio 2017\Projects\FirstAndroidMonoGame\FirstAndroidMonoGame\obj\Debug\android\assets\FirstAndroidMonoGame.dll.mdb
