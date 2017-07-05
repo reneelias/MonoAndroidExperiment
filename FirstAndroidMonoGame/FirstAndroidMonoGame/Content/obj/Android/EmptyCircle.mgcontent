@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/EmptyCircle.png</SourceFile>
+  <SourceFile>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/EmptyCircle.png</SourceFile>
   <SourceTime>2014-10-16T17:39:14.1794853-07:00</SourceTime>
-  <DestFile>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/bin/Android/EmptyCircle.xnb</DestFile>
-  <DestTime>2017-06-29T19:20:53.8949952-07:00</DestTime>
+  <DestFile>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/bin/Android/EmptyCircle.xnb</DestFile>
+  <DestTime>2017-07-04T22:24:43.8364449-07:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T07:05:36-08:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

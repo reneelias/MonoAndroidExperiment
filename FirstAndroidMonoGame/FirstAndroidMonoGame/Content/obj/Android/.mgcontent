@@ -4,8 +4,8 @@
   <Platform>Android</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/Font.spritefont</File>
-    <File>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/EmptyCircle.png</File>
-    <File>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/WhitePixel.png</File>
+    <File>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/Font.spritefont</File>
+    <File>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/EmptyCircle.png</File>
+    <File>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/WhitePixel.png</File>
   </SourceFiles>
 </SourceFileCollection>

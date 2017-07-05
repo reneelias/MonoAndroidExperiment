@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/Font.spritefont</SourceFile>
+  <SourceFile>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/Font.spritefont</SourceFile>
   <SourceTime>2017-03-01T07:05:30-08:00</SourceTime>
-  <DestFile>C:/Users/rene__000/Documents/Visual Studio 2017/Projects/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/bin/Android/Font.xnb</DestFile>
-  <DestTime>2017-06-29T19:14:00.745273-07:00</DestTime>
+  <DestFile>C:/Users/rene__000/Documents/GitHub/MonoAndroidExperiment/FirstAndroidMonoGame/FirstAndroidMonoGame/Content/bin/Android/Font.xnb</DestFile>
+  <DestTime>2017-07-04T22:24:43.5089794-07:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2017-03-01T07:05:36-08:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

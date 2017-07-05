@@ -46,7 +46,7 @@ namespace FirstAndroidMonoGame
             spriteBatch = new SpriteBatch(GraphicsDevice);
             sprite = new MovingSprite(Content.Load<Texture2D>("WhitePixel"), new Vector2(GraphicsDevice.Viewport.Width / 2, GraphicsDevice.Viewport.Height / 2), Color.White);
             //sprite.Position = Vector2.Zero;
-            sprite.Scale = new Vector2(300, 300);
+            sprite.Scale = new Vector2(300 * GraphicsDevice.Viewport.Height / 1440f, 300 * GraphicsDevice.Viewport.Height / 1440f);
             sprite.SetCenterOrigin();
             spriteGrowSpeed = 2;
             font = Content.Load<SpriteFont>("Font");
@@ -97,7 +97,7 @@ namespace FirstAndroidMonoGame
 
             sprite.Rotation += .025f;
             sprite.Scale = new Vector2(sprite.Scale.X + spriteGrowSpeed, sprite.Scale.Y + spriteGrowSpeed);
-            if (sprite.Scale.X >= 310 || sprite.Scale.X <= 100)
+            if (sprite.Scale.X >= 310 * GraphicsDevice.Viewport.Height / 1440f || sprite.Scale.X <= 100 * GraphicsDevice.Viewport.Height / 1440f)
             {
                 spriteGrowSpeed = -spriteGrowSpeed;
             }
